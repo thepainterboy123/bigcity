@@ -229,11 +229,7 @@ button::-moz-focus-inner,
   padding: 0;
   border-style: none; }
 
-  .button15
-{
-  width: 150px;
-  text-align: center;
-  margin:0 auto; }
+  
 
 input[type="radio"],
 input[type="checkbox"] {
