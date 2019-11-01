@@ -229,7 +229,7 @@ button::-moz-focus-inner,
   padding: 0;
   border-style: none; }
 
-  
+
 
 input[type="radio"],
 input[type="checkbox"] {
@@ -1858,7 +1858,7 @@ textarea.form-control {
   width: 100%;
   margin-top: 0.25rem;
   font-size: 80%;
-  color: #dc3545; }
+  color: #9C27B0; }
 
 .invalid-tooltip {
   position: absolute;
