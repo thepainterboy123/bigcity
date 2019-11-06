@@ -1,0 +1,22 @@
+<!--Notification Page-->
+<!DOCTYPE html>
+<html height:"100%"; lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800" rel="stylesheet">
+<link  href="mybuttons.css" type="text/css" rel="stylesheet">
+
+    <title>Enter Menspantystore.com</title>
+  </head>
+  <body height:"100%" style="background-image: url('images/Enter.jpg'); background-position:center; background-size:cover; background-repeat:no-repeat; background-attachment:fixed;">
+    <a>
+      <div class="hero-wrap hero-bread" >
+      <div class="container" style="text-align:center; position:fixed">
+        <p style="font-size:35px" <a class="button1">hi there</a></p>
+        <p><a href="main.html" class="button1;">buttonsup</a></p>
+        <p style="font-size:35px; ">somewords go here</p>
+             </div>
+
+      </a>
+</body>
+</html>
